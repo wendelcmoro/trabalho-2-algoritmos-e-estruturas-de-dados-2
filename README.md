@@ -5,4 +5,4 @@ Trabalho 2 da disciplina de Algoritmos e estrutura de dados II(CI1056) pelo curs
 
 - Para compilar e executar, basta executar o comando **make**, para alterar o tamanho dos polinômios basta alterar o valor máximo do laço "inserirLista" no arquivo *polinomio.c* e então recompilar o projeto
 
-Período original em que o projeto foi feito: 02/2018
+Período original em que o projeto foi feito: 2° Sem. 2018
